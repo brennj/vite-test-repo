@@ -2,7 +2,13 @@
   "name": "test-app",
   "version": "0.0.0",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1"
+  },
   "devDependencies": {
     "vite": "^1.0.0-beta.3",
     "vite-plugin-react": "^3.0.0"

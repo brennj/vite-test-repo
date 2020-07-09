@@ -6,7 +6,6 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@pika/react": "^16.13.1",
-    "@pika/react-dom": "^16.13.1"
+    "@test/component": "0.0.1"
   }
 }

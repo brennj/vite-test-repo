@@ -1,5 +1,6 @@
 {
   "name": "@test/component",
   "version": "0.0.1",
-  "main": "index.jsx"
+  "main": "index.jsx",
+  "source": true
 }
